@@ -1,4 +1,4 @@
-# Togetherness
+## Togetherness
 A project about NGOs
 
 EN: 
@@ -10,11 +10,15 @@ crowdfunding and both social and volunteering actions.
 τoυ crowdfunding και των κοινωνικών και εθελοντικών δράσεων.
 
 ##########
+
 #Team Be2#
+
 ##########
 
 Contact us:
 
 Galanopoulos Georgios email:  galanopoulos@ieee.org
+
 Theodoropoulou Eleni  email: threlena@gmail.com 
+
 Kelesis Dimitrios email: xd4ever7@gmail.com
